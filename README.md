@@ -1,2 +1,3 @@
 # strava_analyse_data
-Create graphs/diagramms to analyse your trainings.
+This simple project is made to help you improve
+your shape every week by analysing your trainings.
