@@ -1,2 +1,2 @@
-*.svg
+[0-9]*.svg
 __pycache__
